@@ -18,8 +18,9 @@ html, body {
     height: 100%;
 }
 
+/* a nivel general */
 
-.form-container { 
+.form-login { 
     text-align: center;
     width: 100%;
     max-width: 330px;
@@ -29,7 +30,36 @@ html, body {
 }
 
 
+.form-login button {
+    margin: 20px 0;
+}
 
+
+.my-title{
+    color: rgb(62, 81, 141);
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    padding: 5px;
+}
+
+
+
+.form-check-input-my-check{
+    float: none;
+}
+
+
+
+my-button {
+    background-color: rgb(62, 81, 141)!important;
+}
+
+
+.bi-github {
+    font-size: 55px;
+    color: rgb(62, 81, 141);
+}
 
 
 
